@@ -1,0 +1,125 @@
+*{ margin: 0; 
+   padding: 0;
+   background-color: olive;
+
+}
+
+.image{margin-top: 20px;
+       margin-left: 100px;
+
+}
+.contact{
+          font-size: 16px;
+          margin-top: 60px;
+          margin-left: 100px;
+          color: white;
+}
+.lang{
+      font-size: 22px;
+      color: white;
+       margin-top: 50px;
+       margin-left: 100px;
+       font-weight: bold;
+     background-color: darkred;
+     margin-right: 100px;
+}    
+.an {
+      font-size: 20px;
+     text-align: 10px;
+      padding: 20px;
+       margin-left: 100px;
+       font-weight: bold;
+       padding: 20px
+       }
+
+ 
+.forma{ margin-left: 700px;
+      font-size: 22px;
+      padding: 10px;
+       margin-top: 10px;
+       text-align: 10px;
+       font-weight: bold;
+       color:white;
+       background-color: darkred;
+} 
+.sous{
+	    padding: 5px;
+       margin-top: 5px;
+       margin-right: 100px;
+       text-align: 10px;
+       font-weight: bold;
+      float: right; 
+
+}
+.exp{ font-size: 22px;
+       margin-top: 90px;
+       font-weight: bold;
+     margin-left: 700px;
+     color:white;
+     background-color: darkred;
+  }
+
+.sous1{ padding: 20px;
+       margin-top: 5px;
+       margin-right: 180px;
+       text-align: 10px;
+       font-weight: bold;
+      float: right; 
+}
+.ass{font-size: 22px;
+      float: left;
+      font-weight: bold;
+      margin-left: 100px;
+      color:white;
+      background-color: darkred;
+
+}
+.sous2 {padding: 20px;
+       margin-top: 10px;
+       margin-right: 800px;
+       text-align: 10px;
+       font-weight: bold;
+       margin-left: 100px;
+
+}
+
+.comp{float:left; 
+      margin-left: 100px;
+      margin-top: 10px;
+      font-weight: bold;
+      font-size: 22px;
+      text-align: 10px;
+      color:white;
+      background-color: darkred;
+}
+.mai{ 
+      margin-right:800px;
+      margin-top: 20px;
+      font-weight: bold;
+      font-size: 20px;
+      text-align: 10px;
+      margin-left: 100px;
+}     
+
+.att{font-size: 22px;
+      font-weight: bold;
+      margin-left: 700px;
+      margin-top: 5px;
+      text-align: 10px;
+      color: white;
+      background-color: darkred;
+
+}
+.sous4{font-size: 20px;
+      float: right;
+      font-weight: bold;
+      margin-right: 100px;
+      margin-top: 20px;
+      text-align: 10px;
+      margin-bottom: 50px;
+}
+
+
+
+
+    
